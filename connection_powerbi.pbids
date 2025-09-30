@@ -1,0 +1,14 @@
+{
+    "version": "0.1",
+    "connections": [
+        {
+            "details": {
+                "protocol": "mssql",
+                "address": {
+                    "server": "projeto-cbs.database.windows.net",
+                    "database": "projeto-cbs"
+                }
+            }
+        }
+    ]
+}
